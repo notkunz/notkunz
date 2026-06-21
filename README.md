@@ -1,9 +1,19 @@
-- 👋 Hi, I’m @notkunz
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning .js, sql, python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... send a message
-- 😄 Pronouns: heli, copter
+Olakunle Esuruoso
+
+Half-stack developer & IoT engineer based in Lagos, Nigeria.
+Building products for the African market.
+
+Stack
+**Mobile:** Flutter, Dart, Firebase  
+**Web:** Next.js, React, TypeScript, Tailwind  
+**Backend:** Supabase, PostgreSQL, Node.js, Django
+**IoT:** ESP8266, C/C++, MQTT, HiveMQ 
+
+## Reach me
+- Email: esuruosoolakunle15@gmail.com
+
+---
+*Building in public. Shipping products.*
 - ⚡ Fun fact: The shortest war: The Anglo-Zanzibar War, which took place on August 27, 1896, was the shortest war in history, lasting only 38 minutes.
 
 <!---
