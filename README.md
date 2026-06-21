@@ -18,8 +18,7 @@ Mathematics & Computer Science
 
 ## Reach me
 - Email: esuruosoolakunle15@gmail.com
-- Fiverr: [notkunz](https://fiverr.com/notkunz)
-
+- Phone: +234 8106124552
 ---
 * Building in public. Shipping products.*
 - ⚡ Fun fact: The shortest war: The Anglo-Zanzibar War, which took place on August 27, 1896, was the shortest war in history, lasting only 38 minutes.
