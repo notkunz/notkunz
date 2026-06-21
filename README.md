@@ -1,19 +1,27 @@
-#Olakunle Esuruoso
+# Olakunle Esuruoso
 
-Half-stack developer & IoT engineer based in Lagos, Nigeria.
+Full-stack developer & IoT engineer based in Lagos, Nigeria.
 Building products for the African market.
 
-
+## Stack
 **Mobile:** Flutter, Dart, Firebase  
 **Web:** Next.js, React, TypeScript, Tailwind  
 **Backend:** Supabase, PostgreSQL, Node.js, Django
-**IoT:** ESP8266, C/C++, MQTT, HiveMQ 
+**IoT:** ESP8266, C/C++, MQTT, HiveMQ  
+ 
+
+## Studying
+Mathematics & Computer Science
+
+## Interested in 
+*Building Engineering*
 
 ## Reach me
 - Email: esuruosoolakunle15@gmail.com
+- Fiverr: [notkunz](https://fiverr.com/notkunz)
 
 ---
-*Building in public. Shipping products.*
+* Building in public. Shipping products.*
 - ⚡ Fun fact: The shortest war: The Anglo-Zanzibar War, which took place on August 27, 1896, was the shortest war in history, lasting only 38 minutes.
 
 <!---
