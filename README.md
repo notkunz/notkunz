@@ -1,9 +1,9 @@
-Olakunle Esuruoso
+##Olakunle Esuruoso
 
 Half-stack developer & IoT engineer based in Lagos, Nigeria.
 Building products for the African market.
 
-Stack
+
 **Mobile:** Flutter, Dart, Firebase  
 **Web:** Next.js, React, TypeScript, Tailwind  
 **Backend:** Supabase, PostgreSQL, Node.js, Django
