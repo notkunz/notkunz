@@ -1,6 +1,6 @@
 # Olakunle Esuruoso
 
-Full-stack developer & IoT engineer based in Lagos, Nigeria.
+Half-stack developer & IoT engineer based in Lagos, Nigeria.
 Building products for the African market.
 
 ## Stack
